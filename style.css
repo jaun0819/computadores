@@ -1,0 +1,21 @@
+/*Clase de Elemento*/
+h1{
+   font-size:69px;
+}
+/* clase no atada a ningun elemento */
+.centrado {
+   margin: 0 auto 0 auto;
+   text-align: center ;  
+}
+/* clase atada a un elemento*/
+p.color-fuente {
+   color:blueviolet;
+   text-align: center;
+   font-size: 40px;
+}
+img {
+   display: block; 
+   margin: 0 auto 0 auto;
+} 
+
+
