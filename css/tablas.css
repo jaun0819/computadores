@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+padding: 0;
+
+}
+table {
+    font-size: 2em;
+border-collapse: collapse;
+margin: 25px;background: blanchedalmond;
+margin: 25px auto;
+text-align: center;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px ;
+}
